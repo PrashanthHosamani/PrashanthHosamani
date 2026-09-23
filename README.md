@@ -12,10 +12,6 @@ Building AI agents, distributed backend systems, and production-oriented softwar
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PrashanthHosamani">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="24" height="24" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://prashanthhosamani.netlify.app/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" width="24" height="24" alt="Website"/>
   </a>
