@@ -5,6 +5,8 @@
 ### Passionate about AI & Software Engineering 
 Building **AI agents, distributed backend systems, and production-oriented software** with a focus on problem solving, reliability, business logic, and scalable architecture.
 
+- How to reach me **Email:** prashanthdhosamani@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ACoAADZsihIBvvkBX12qloTjr8ktswMv0r1LMOw)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrashanthHosamani)
 [![Website](https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prashanthhosamani.netlify.app/)
