@@ -8,7 +8,7 @@ Building AI agents, distributed backend systems, and production-oriented softwar
 
 ### Connect with me 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ACoAADZsihIBvvkBX12qloTjr8ktswMv0r1LMOw">
+  <a href="https://www.linkedin.com/in/prashanthhosamani">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@ Building AI agents, distributed backend systems, and production-oriented softwar
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" width="24" height="24" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="X_PROFILE_URL">
+  <a href="https://x.com/PrashanthTXCH">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="24" height="24" alt="X"/>
   </a>
 </p>
