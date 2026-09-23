@@ -13,7 +13,7 @@ Building **AI agents, distributed backend systems, and production-oriented softw
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](X_PROFILE_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthdhosamani@gmail.com)
 
-</div>
+<div align="center">
 
 ---
 
