@@ -4,7 +4,7 @@
 
 Building AI agents, distributed backend systems, and production-oriented software with a focus on problem solving, reliability, business logic, and scalable architecture.
 
-- 🤝 How to reach me: **prashanthdhosamani@gmail.com**
+- How to reach me: **prashanthdhosamani@gmail.com**
 
 ### Connect with me 
 <p align="left">
